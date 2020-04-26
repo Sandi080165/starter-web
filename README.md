@@ -7,3 +7,6 @@ This is example to show different parts of the Git repository and various comman
 deployment
 ##How to Contribute
 contri
+
+###Copyright
+2020 Sandeep
