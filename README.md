@@ -6,7 +6,7 @@ This is example to show different parts of the Git repository and various comman
 ##Purpose
 deployment
 ##How to Contribute
-contri
+updated
 
 ###Copyright
 2020 Sandeep
